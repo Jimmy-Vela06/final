@@ -1,0 +1,52 @@
+[
+  {
+    "username": "queen_james",
+    "email": "lebronjames@gmail.com",
+    "password": "password01"
+  },
+  {
+    "username": "Reese Witherspoon",
+    "email": "reesewitherspoon@gmail.vom",
+    "password": "password02"
+  },
+  {
+    "username": "Gigi Hadid",
+    "email": "gigihadid@gmail.com",
+    "password": "password03"
+  },
+  {
+    "username": "Katy Perry",
+    "email": "katyperry@gmail.com",
+    "password": "password04"
+  },
+  {
+    "username": "Natalie Portman",
+    "email": "natalieportman@gmail.com",
+    "password": "password05"
+  },
+  {
+    "username": "Lorde ",
+    "email": "i_am_lorde_ya_ya_yaaaa@gmail.com",
+    "password": "password06"
+  },
+  {
+    "username": "Rihanna",
+    "email": "theriri@gmail.com",
+    "password": "password07"
+  },
+  {
+    "username": "Lady Gaga",
+    "email": "pokerface@gmail.com",
+    "password": "password08"
+  },
+  {
+    "username": "Lana Del Rey",
+    "email": "lanadelrey@gmail.com",
+    "password": "password09"
+  },
+  {
+    "username": "Emma Watson",
+    "email": "your_a_wizard@gmail.com",
+    "password": "password10"
+  }
+]
